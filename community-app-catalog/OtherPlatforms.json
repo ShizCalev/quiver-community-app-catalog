@@ -1,7 +1,7 @@
 {
   "name": "Other Platforms",
   "description": "Other platform ports and recompilations",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "preferredTagFilters": [
     "recomp",
     "decomp",
@@ -19,12 +19,108 @@
   ],
   "apps": [
     {
+      "name": "Caesar III",
+      "project": "Julius",
+      "repository": "bvschaik/julius",
+      "folderName": "CaesarIII-Julius",
+      "appIconUrl": "https://raw.githubusercontent.com/bvschaik/julius/refs/heads/master/res/julius.ico",
+      "tags": ["recreation", "pc", "caesar"]
+    },
+    {
+      "name": "Caesar III [Augustus]",
+      "project": "Augustus",
+      "repository": "Keriew/augustus",
+      "folderName": "CaesarIII-Augustus",
+      "appIconUrl": "https://raw.githubusercontent.com/Keriew/augustus/refs/heads/master/res/augustus.ico",
+      "tags": ["recreation", "pc", "caesar"]
+    },
+    {
+      "name": "Civilization III [OpenCiv3]",
+      "project": "OpenCiv3",
+      "repository": "C7-Game/OpenCiv3",
+      "folderName": "CivilizationIII-OpenCiv3",
+      "appIconUrl": "https://raw.githubusercontent.com/C7-Game/OpenCiv3/refs/heads/Development/C7/icon.ico",
+      "tags": ["recreation", "pc", "civilization"]
+    },
+    {
+      "name": "Command & Conquer 95 / Red Alert / Dune 2000 [OpenRA]",
+      "project": "OpenRA",
+      "repository": "OpenRA/OpenRA",
+      "folderName": "CommandConquer95RedAlertDune2000-OpenRA",
+      "appIconUrl": "https://raw.githubusercontent.com/OpenRA/OpenRA/refs/heads/bleed/packaging/artwork/ra_512x512.png",
+      "tags": ["recreation", "pc", "command and conquer"]
+    },
+    {
+      "name": "The Elder Scrolls II: Daggerfall [Daggerfall Unity]",
+      "project": "Daggerfall Unity",
+      "repository": "Interkarma/daggerfall-unity",
+      "folderName": "Daggerfall-DaggerfallUnity",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/f834b70560c3ca992ff72b5983170816/32/256x256.png",
+      "tags": ["recreation", "pc", "elder scrolls"]
+    },
+    {
+      "name": "Dungeon Keeper [KeeperFX]",
+      "project": "KeeperFX",
+      "repository": "dkfans/keeperfx",
+      "folderName": "DungeonKeeper-KeeperFX",
+      "appIconUrl": "https://raw.githubusercontent.com/dkfans/keeperfx/refs/heads/master/res/keeperfx_icon512-24bpp.png",
+      "tags": ["recreation", "pc", "dungeon keeper"]
+    },
+    {
+      "name": "Doom [GZDoom]",
+      "project": "GZDoom",
+      "repository": "ZDoom/gzdoom",
+      "folderName": "Doom-GZDoom",
+      "appIconUrl": "",
+      "tags": ["recreation", "pc", "doom"]
+    },
+    {
+      "name": "Heroes of Might and Magic III [VCMI]",
+      "project": "VCMI",
+      "repository": "vcmi/vcmi",
+      "folderName": "HeroesOfMightAndMagicIII-VCMI",
+      "appIconUrl": "",
+      "tags": ["recreation", "pc", "heroes of might and magic"]
+    },
+    {
+      "name": "MechCommander 2",
+      "project": "mc2",
+      "repository": "alariq/mc2",
+      "folderName": "MechCommander2-MC2",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon/752071470c18b75b3e314a09a64953b3/8/96x96.png",
+      "tags": ["recreation", "pc", "mech commander"]
+    },
+    {
       "name": "Oddworld: Abe's Oddysee and Abe's Exoddus",
       "project": "R.E.L.I.V.E.",
       "repository": "AliveTeam/alive_reversing",
       "folderName": "OddworldAbesOddyseeAndAbesExoddus-RELIVE",
       "appIconUrl": "https://raw.githubusercontent.com/AliveTeam/alive_reversing/refs/heads/master/Source/relive/app.ico",
       "tags": ["decomp", "pc", "oddworld", "decompilation"]
+    },
+    {
+      "name": "Chris Sawyer's Locomotion [OpenLoco]",
+      "project": "OpenLoco",
+      "repository": "OpenLoco/OpenLoco",
+      "folderName": "ChrisSawyersLocomotion-OpenLoco",
+      "appIconUrl": "https://raw.githubusercontent.com/OpenLoco/OpenLoco/refs/heads/master/src/Resources/src/logo/icon.ico",
+      "tags": ["recreation", "pc", "locomotion"]
+    },
+    {
+      "name": "RollerCoaster Tycoon 2 [OpenRCT2]",
+      "project": "OpenRCT2",
+      "repository": "OpenRCT2/OpenRCT2",
+      "folderName": "RollerCoasterTycoon2-OpenRCT2",
+      "appIconUrl": "https://raw.githubusercontent.com/OpenRCT2/OpenRCT2/refs/heads/develop/resources/logo/icon.ico",
+      "tags": ["recreation", "pc", "rollercoaster tycoon"]
+    },
+    {
+      "name": "Theme Hospital [CorsixTH]",
+      "project": "CorsixTH",
+      "repository": "CorsixTH/CorsixTH",
+      "folderName": "ThemeHospital-CorsixTH",
+      "appIconUrl": "https://raw.githubusercontent.com/CorsixTH/CorsixTH/refs/heads/master/CorsixTH/CorsixTH.ico",
+      "tags": ["recreation", "pc", "theme hospital"]
     },
     {
       "name": "Sonic the Hedgehog (2013)",
@@ -81,6 +177,32 @@
       "folderName": "DoomIIRPG-DoomIIRPGRE",
       "appIconUrl": "https://cdn2.steamgriddb.com/thumb/e2ea312c6c0c186d4cc19a3c51db7e8e.jpg",
       "tags": ["decomp", "mobile", "doom", "brew", "decompilation"]
+    },
+    {
+      "name": "Taisei",
+      "project": "Taisei",
+      "repository": "taisei-project/taisei",
+      "folderName": "Taisei",
+      "appIconUrl": "",
+      "tags": ["recreation", "pc", "bullet hell"]
+    },
+    {
+      "name": "Warcraft: Orcs & Humans [War1gus]",
+      "project": "War1gus",
+      "repository": "Wargus/war1gus",
+      "folderName": "WarcraftOrcsHumans-War1gus",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/64d3742f8a1795f31142a0f006484817.png",
+      "releaseAssetFilter": "portable",
+      "tags": ["recreation", "pc", "warcraft", "decompilation"]
+    },
+    {
+      "name": "Warcraft II: Tides of Darkness [Wargus]",
+      "project": "Wargus",
+      "repository": "Wargus/wargus",
+      "folderName": "WarcraftIITidesOfDarkness-Wargus",
+      "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/a1341c517cd50c93bf46e2c545a9b7af.png",
+      "releaseAssetFilter": "portable",
+      "tags": ["recreation", "pc", "warcraft", "decompilation"]
     },
     {
       "name": "Wolfenstein RPG",
