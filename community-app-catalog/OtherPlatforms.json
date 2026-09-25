@@ -1,7 +1,7 @@
 {
   "name": "Other Platforms",
   "description": "Other platform ports and recompilations",
-  "version": "1.0.10",
+  "version": "1.0.9",
   "preferredTagFilters": [
     "recomp",
     "decomp",
@@ -35,7 +35,7 @@
       "tags": ["recreation", "pc", "caesar"]
     },
     {
-      "name": "Civilization III [OpenCiv3]",
+      "name": "Civilization III",
       "project": "OpenCiv3",
       "repository": "C7-Game/OpenCiv3",
       "folderName": "CivilizationIII-OpenCiv3",
@@ -43,15 +43,15 @@
       "tags": ["recreation", "pc", "civilization"]
     },
     {
-      "name": "The Elder Scrolls II: Daggerfall [Daggerfall Unity]",
+      "name": "The Elder Scrolls II: Daggerfall",
       "project": "Daggerfall Unity",
       "repository": "Interkarma/daggerfall-unity",
-      "folderName": "Daggerfall-DaggerfallUnity",
+      "folderName": "TheElderScrollsIIDaggerfall-DaggerfallUnity",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/f834b70560c3ca992ff72b5983170816/32/256x256.png",
       "tags": ["recreation", "pc", "elder scrolls"]
     },
     {
-      "name": "Dungeon Keeper [KeeperFX]",
+      "name": "Dungeon Keeper",
       "project": "KeeperFX",
       "repository": "dkfans/keeperfx",
       "folderName": "DungeonKeeper-KeeperFX",
@@ -59,7 +59,7 @@
       "tags": ["recreation", "pc", "dungeon keeper"]
     },
     {
-      "name": "Doom [GZDoom]",
+      "name": "Doom",
       "project": "GZDoom",
       "repository": "ZDoom/gzdoom",
       "folderName": "Doom-GZDoom",
@@ -67,7 +67,7 @@
       "tags": ["recreation", "pc", "doom"]
     },
     {
-      "name": "Heroes of Might and Magic III [VCMI]",
+      "name": "Heroes of Might and Magic III",
       "project": "VCMI",
       "repository": "vcmi/vcmi",
       "folderName": "HeroesOfMightAndMagicIII-VCMI",
@@ -78,7 +78,7 @@
       "name": "MechCommander 2",
       "project": "mc2",
       "repository": "alariq/mc2",
-      "folderName": "MechCommander2-MC2",
+      "folderName": "MechCommander2-Mc2",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon/752071470c18b75b3e314a09a64953b3/8/96x96.png",
       "tags": ["recreation", "pc", "mech commander"]
     },
@@ -91,7 +91,7 @@
       "tags": ["decomp", "pc", "oddworld", "decompilation"]
     },
     {
-      "name": "Chris Sawyer's Locomotion [OpenLoco]",
+      "name": "Chris Sawyer's Locomotion",
       "project": "OpenLoco",
       "repository": "OpenLoco/OpenLoco",
       "folderName": "ChrisSawyersLocomotion-OpenLoco",
@@ -99,7 +99,7 @@
       "tags": ["recreation", "pc", "locomotion"]
     },
     {
-      "name": "Theme Hospital [CorsixTH]",
+      "name": "Theme Hospital",
       "project": "CorsixTH",
       "repository": "CorsixTH/CorsixTH",
       "folderName": "ThemeHospital-CorsixTH",
@@ -166,27 +166,27 @@
       "name": "Taisei",
       "project": "Taisei",
       "repository": "taisei-project/taisei",
-      "folderName": "Taisei",
+      "folderName": "Taisei-Taisei",
       "appIconUrl": "https://raw.githubusercontent.com/taisei-project/taisei/222305706813d75e39eaff130e6976210abe77f9/misc/icons/taisei.ico",
       "tags": ["recreation", "pc", "bullet hell"]
     },
     {
-      "name": "Warcraft: Orcs & Humans [War1gus]",
+      "name": "Warcraft: Orcs & Humans",
       "project": "War1gus",
       "repository": "Wargus/war1gus",
       "folderName": "WarcraftOrcsHumans-War1gus",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/64d3742f8a1795f31142a0f006484817.png",
       "releaseAssetFilter": "portable",
-      "tags": ["recreation", "pc", "warcraft", "decompilation"]
+      "tags": ["recreation", "pc", "warcraft"]
     },
     {
-      "name": "Warcraft II: Tides of Darkness [Wargus]",
+      "name": "Warcraft II: Tides of Darkness",
       "project": "Wargus",
       "repository": "Wargus/wargus",
       "folderName": "WarcraftIITidesOfDarkness-Wargus",
       "appIconUrl": "https://cdn2.steamgriddb.com/icon_thumb/a1341c517cd50c93bf46e2c545a9b7af.png",
       "releaseAssetFilter": "portable",
-      "tags": ["recreation", "pc", "warcraft", "decompilation"]
+      "tags": ["recreation", "pc", "warcraft"]
     },
     {
       "name": "Wolfenstein RPG",
